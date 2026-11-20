@@ -1,0 +1,4 @@
+interface:
+  display_name: "CT 软件开发流程规范"
+  short_description: "从需求确认、界面设计到开发、验证、本地部署和交付的通用规范"
+  default_prompt: "用 $ct-dev-workflow 处理这项开发任务。"
